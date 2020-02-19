@@ -35,4 +35,4 @@ tensorboard==1.0.0a6
 tensorboard-logger==0.0.4
 traitlets==4.3.2
 wcwidth==0.1.7
-Werkzeug==0.13
+Werkzeug==0.15.3
