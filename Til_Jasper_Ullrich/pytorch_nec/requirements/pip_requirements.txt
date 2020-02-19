@@ -18,7 +18,6 @@ pathlib2==2.3.0
 pbr==3.1.1
 pexpect==4.3.1
 pickleshare==0.7.4
-Pillow==4.2.1
 prompt-toolkit==1.0.15
 protobuf==3.5.0.post1
 ptyprocess==0.5.2
@@ -35,6 +34,5 @@ six==1.10.0
 tensorboard==1.0.0a6
 tensorboard-logger==0.0.4
 traitlets==4.3.2
-urllib3==1.22
 wcwidth==0.1.7
 Werkzeug==0.13
