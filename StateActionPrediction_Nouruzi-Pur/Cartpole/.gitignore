@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+venv/
+tensorboard/
+*.pycgame_example
+.idea/
+*.pyc
+__pycache__/*
