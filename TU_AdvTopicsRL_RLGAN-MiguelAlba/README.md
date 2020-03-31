@@ -1,4 +1,6 @@
 # Seminar: Advanced topics in Reinforcement learning 
+(I will add more plots and some code formatting fixes, soon)
+
 ## Paper: Transfer learning for Reinforcement learning tasks via Image-to-Image Translation (RL-GAN)
 Main paper can be found in [Shani Gamrian, Yoav Goldberg, "Transfer Learning for Related Reinforcement Learning Tasks via Image-to-Image Translation](https://arxiv.org/pdf/1806.07377.pdf)
 This is only the implementation of RL-GAN for the game road fighter, the aim is to transfer the learned agent from level one to the other 4 without using common fine tunning but instead imitation learning and image-to-image translation.
